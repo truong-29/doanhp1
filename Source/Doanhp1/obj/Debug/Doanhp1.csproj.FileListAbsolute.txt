@@ -1,0 +1,7 @@
+D:\Code\C#\Doanhp1\Doanhp1\bin\Debug\Doanhp1.exe.config
+D:\Code\C#\Doanhp1\Doanhp1\bin\Debug\Doanhp1.exe
+D:\Code\C#\Doanhp1\Doanhp1\bin\Debug\Doanhp1.pdb
+D:\Code\C#\Doanhp1\Doanhp1\obj\Debug\Doanhp1.csproj.AssemblyReference.cache
+D:\Code\C#\Doanhp1\Doanhp1\obj\Debug\Doanhp1.csproj.CoreCompileInputs.cache
+D:\Code\C#\Doanhp1\Doanhp1\obj\Debug\Doanhp1.exe
+D:\Code\C#\Doanhp1\Doanhp1\obj\Debug\Doanhp1.pdb
